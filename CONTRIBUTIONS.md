@@ -1,0 +1,431 @@
+# PATH-OS contributions
+
+GitHub account: cX3po
+Snapshot: 2026-10-09T14:39:20.085905+00:00
+
+Public indexed author/review searches, default-branch commits and discovered PR branches; not deleted/private/unindexed activity. Review events differ from reviewed PR counts. Contributor counts are GitHub contributor endpoint totals, not ledger commit totals.
+
+- commit: fix(test): ignore viem version footer in failure class —   https://github.com/DACS-Agent-commerce/dacs-sdk/commit/4616d9c45b9f4abd707e690bc608561f24c1bf46
+- commit: docs(x402): state transport behavior precisely —   https://github.com/DACS-Agent-commerce/dacs-sdk/commit/b14e7bf3b8d3e45bad0fbc617be4cc4b0d04f4c0
+- commit: docs(x402): state transport behavior precisely —   https://github.com/DACS-Agent-commerce/dacs-sdk/commit/e1a61bd2e6c4052fea6ecd26b2c62ced55ffae97
+- commit: fix(fetch): prevent pooled socket reuse —   https://github.com/DACS-Agent-commerce/dacs-sdk/commit/acdf501c3eea839349a5c3aaa60a33b66b5cca86
+- commit: fix(network): centralize public address policy —   https://github.com/DACS-Agent-commerce/dacs-sdk/commit/ed07a2ddd1eb2064ed61e0d183029e5b2bd6961e
+- commit: docs(x402): name caller and transport headers —   https://github.com/DACS-Agent-commerce/dacs-sdk/commit/1796883dbbc6c94682e52ce795e21a044220e62b
+- commit: fix(x402): refuse unrecognized buyer headers —   https://github.com/DACS-Agent-commerce/dacs-sdk/commit/352348fb3883a045f614cdf843f73509b005c7b0
+- commit: docs(x402): scope public fetch guarantees —   https://github.com/DACS-Agent-commerce/dacs-sdk/commit/7b0459a215ae80325e3faa9bc4c22a8f07c628a4
+- commit: fix(fetch): handle aborted response streams —   https://github.com/DACS-Agent-commerce/dacs-sdk/commit/64edfe562226e612655723fd5d0c9f349ba99553
+- commit: fix(x402): enforce whole-request public fetch deadline —   https://github.com/DACS-Agent-commerce/dacs-sdk/commit/2800ffdc9604befd3603a3b2b0656691cdfaca4b
+- commit: fix(x402): bound counterparty HTTP fetches —   https://github.com/DACS-Agent-commerce/dacs-sdk/commit/590b3de3e693b6ae45543502dff18db2b15bc2e8
+- commit: fix(test): overNested depth-rejection fixture must exceed the shared CF-5 bound —   https://github.com/DACS-Agent-commerce/dacs-sdk/commit/fa59311bcf0a9e49e39b7b57a2fe27092c28570a
+- commit: fix(canonical): share depth bound with artifact and settlement admission —   https://github.com/DACS-Agent-commerce/dacs-sdk/commit/39a9390efea6caa38dac1af6fd3b20e76d803ecb
+- commit: fix(canonical): honor CF-5 container depth 128 —   https://github.com/DACS-Agent-commerce/dacs-sdk/commit/b819b32aec4165574e380ef72a46f88277b6976f
+- commit: fix(x402): share canonical JSON depth limit across guards —   https://github.com/DACS-Agent-commerce/dacs-sdk/commit/cce0c7d7e540afad7255d8b99cf773d633085542
+- commit: fix(test): overNested depth-rejection fixture must exceed the shared CF-5 bound —   https://github.com/DACS-Agent-commerce/dacs-sdk/commit/557f417a77d6e0834a01a95524110e9aa2c483d9
+- commit: feat(canonical): add explicit CF-5 raw-byte admission —   https://github.com/DACS-Agent-commerce/dacs-sdk/commit/8bad3a219a220fc19ae1b40c457113991f9b8804
+- commit: INDEX: add pathos-dacs-ref (reference impl) + dacs-drift (tool) (#1) —   https://github.com/DACS-Agent-commerce/Community/commit/9f40c99cb774ddeaa3464c39ccd6a4d523df14bd
+- commit: fix(directory): accept verified vet record phase refs —   https://github.com/DACS-Agent-commerce/Community/commit/ca632f44ebf56892259588094e82985680f38027
+- commit: fix(directory): harden strict bundle verification —   https://github.com/DACS-Agent-commerce/Community/commit/7b01745c8312a14778e4b1c97859698a37f836e9
+- commit: docs(index): list the DACS conformance partner kit —   https://github.com/DACS-Agent-commerce/Community/commit/114f6d62d5ace79d7f06f0cbdf671781135b360b
+- commit: chore(directory): remove accidental local symlinks —   https://github.com/DACS-Agent-commerce/Community/commit/2d3c92b21f46e79dc7e7175c45da2cbdb5b265a5
+- commit: fix(indexer): reach verified seller-only current copies —   https://github.com/DACS-Agent-commerce/Community/commit/dce6fe32fb8ab922fdbc5ce34d98feb8047164b6
+- commit: fix(reconciliation): keep divergence predicate aligned with #224 —   https://github.com/DACS-Agent-commerce/Community/commit/574c0486e095f30556d4e12eddf909a6e00b096f
+- commit: fix(reconciliation): include phase kind in the per-index divergence facts —   https://github.com/DACS-Agent-commerce/Community/commit/b122dd1799d0e464c069716b0c04842e38931a08
+- commit: fix(indexer): detect #224 phase-index divergence in two-copy reconciliation —   https://github.com/DACS-Agent-commerce/Community/commit/a389c54db9e09446d4ea33acba9fb6518905fc53
+- commit: directory: pin payee-bound coupling + drop leftover pay-evm-erc8183 rail label (#17) —   https://github.com/DACS-Agent-commerce/Community/commit/f0de047565c2bb1b2ecefb5ea6b3de124b1fdf60
+- commit: index: add A2A trilogy — stranger-gauntlet, verify-peer (apps) + convergence-harness (tool) —   https://github.com/DACS-Agent-commerce/Community/commit/98deab93557b4d4e83a3b1fbd95e1c60645a29ea
+- commit: conformance: verifier-emitted AttestationBundle example (#133/D2, DACS-5 regen) (#145) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/4abd4c0a62546e6edcfb06c07f1f19dd3c6bfcf4
+- commit: regen(#133): lifecycle vectors → current v0.1 spec shapes; lift quarantine (#163) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/fd193fcce50f4e49ed0aeed3265cec9cf2af51e2
+- commit: docs(composition): de-inherit AP2/x402/ERC-8004/A2A claims + contributes-vs-must-bind matrix (#205, closes #194) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/e17aba508c919e34878a3f44c2e2578b4a212875
+- commit: conformance(security): §8.3.3 + CH-6 channel-message replay vectors (#203, part of #158) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/a95eb3de7b522d276048c0be3215c248dd64b9c6
+- commit: conformance(security): §7.12 VerifyResult-acceptance candidate vectors (#200, part of #158) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/0dff71b5e51ffb9e8a6bbd7858080742232bf6c0
+- commit: §7.4.4 PA-3: clarify that re-anchoring prior single-signer recipes is ap (#56) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/175af2d38f24048fd6eb7f04270f9df6c0684648
+- commit: docs: add SECURITY.md — private vulnerability disclosure policy (#67) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/41597cb13fdf07a756a1ab975173c43a7802cc7a
+- commit: §6.3.1: erc8004 row is missing chainId/tokenId canonicalisation that §16 (#36) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/c63c25e7d1090fcef3e78480e63501732b9e9473
+- commit: §7.2: define canonical representation for integers beyond the IEEE-754 s (#55) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/156e2ee9dc132f967f4af0710f872fa152b83a7d
+- commit: §9.7.1: constrain SettlementAmendment.amendsEvidenceRef to a successful same-job settlement; bound refunds by settled amount (#63) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/be990a4a6feae6cfefd650cbc7e7f2f79c843d49
+- commit: §6.3.2: document that DACS-1 v0.1 provides no per-claim selective disclosure (and add it to §11.2 follow-on) (#88) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/52a73eaad89e5b1d0bd29c1c14581a7a842abdb6
+- commit: §12.4 / §8.12: add DACS-3 negotiation griefing / resource-exhaustion thr (#51) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/dcfdce16a893672293ff7e869feb03b8e32414fb
+- commit: §6.3.3 match() verifies presentedBy scheme but not that the presentedBy claim is verified (tier-laundering gap) (#17) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/fa2c1777e72e889b79cd5b5d4627d22463d09933
+- commit: §7.8 VetCredentialsOutput.overallDecision is missing the "error" member (#44) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/80f1c52de988f86f437ebc961c24e56ee4b3442b
+- commit: §7.9: extend Verifier conformance range to VP-R4 (currently stops at VP- (#57) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/b15902f8c9e5878747f7ad108c0835862e364d78
+- commit: §7.7.1: per-unit classification tests indeterminate before error, agains (#14) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/e60d36b25f809896a364beaa377a38103070ab0c
+- commit: §8.3.3: make channel-message envelope_hash encoding explicit (hex) to ma (#11) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/395556793a47f55bcf9fb8d8dcedeac64ec7b1ec
+- commit: Add commit-failed to SessionState enum (§10.3) — commit-agreement reject (#69) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/db701c2ad6f60f3b6f6fc614c96986ad2a21170e
+- commit: §8.9: align sealed-envelope conformance row with SE-6 (rule-ref content- (#33) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/22eb24166f60304673e2b6bc2e708998e92d000c
+- commit: §9.5.2: lift amount.currency ↔ rail.asset symbol check into §9.5.1 commo (#34) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/d26e0973fc46ad7d09712ca275bd905e3d102e20
+- commit: Define ComponentSignature — referenced by six anchored record types but (#39) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/cd7738cd11995596ba58831a4ae6170e44f7c73d
+- commit: §12.2: add a "Malicious orchestrator" row to the adversary model (refere (#32) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/e88532ac56e32cbb7c0dc0f7fd0559e44775a43b
+- commit: §12.4: missing threat-catalogue row for authority-endpoint TLS MITM (for (#50) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/d378a8aeb86ebbfea5c292e35a859ff91be1fb2d
+- commit: tooling(diff-vector-runs): resolve golden identity fixtures (#217) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/dab473d74b89ab7dfedf4cd27c2d2927c9448376
+- issue: Testnet: GitHub identity link fails node-side with Bad credentials (Transaction not applied) — open  https://github.com/kynesyslabs/node/issues/1027
+- issue: Three SDK gaps found by LIVE testnet runs: PC-2 locator form vs Agent reads, D402Client content.to, settle RPC unknown to node 0.9.9 — open  https://github.com/DACS-Agent-commerce/dacs-sdk/issues/316
+- issue: Lifecycle walkthrough emits phaseIndex inside signed SettlementEvidence, a non-ULID jobId, and outcome "fail" without reason; dacs-sdk refuses all three — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/357
+- issue: funded two-agent E2E: footer-bearing viem errors misclassify as listing-history-invalid — closed  https://github.com/DACS-Agent-commerce/dacs-sdk/issues/189
+- issue: node/SDK diagnostic: concurrent-submit / per-account nonce admission semantics (parallelization precondition) — open  https://github.com/kynesyslabs/node/issues/974
+- issue: Storage-program txs accepted for propagation but never included on demosnode.discus.sh (chain advances without them) — open  https://github.com/kynesyslabs/node/issues/973
+- issue: (Proposal) Neutral cross-implementation conformance suite (adapter-based, WG-owned) — open  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/270
+- issue: demosdk: Hashing.sha256 digests tx content as binary not UTF-8 → 'Transaction hash mismatch' on any non-ASCII tx (root cause + 1-line fix) — open  https://github.com/kynesyslabs/node/issues/968
+- issue: Design: L2PS forward secrecy + key rotation (+ nonce-reuse MUST-REJECT conformance vector) — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/195
+- issue: Composition-claims cross-check (AP2 · x402 · ERC-8004 · A2A) — ref-impl audit — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/194
+- issue: Security-conformance coverage gaps (§12.4) — candidate vectors from the pathos-dacs-ref threat matrix — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/158
+- issue: PATH-OS: conformance vectors available + one roadmap question (CCI-membership) — closed  https://github.com/DACS-Agent-commerce/Community/issues/4
+- issue: v0.1 (post-restructure) review pass — PATH-OS agents: defects + ambiguities — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/133
+- issue: (roadmap) Primer readability findings — v0.1 entry-door human review — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/123
+- issue: v0.1 baseline review pass (PATH-OS agents): defects + roadmap, classified — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/118
+- issue: RFC: DACS-X (dispute / execution-verification, §11.2.1) — design sketch for sign-off — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/105
+- issue: DACS-X ↔ reference-impl interface: DisputeOutcome contract + §14 vector loop — open  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/99
+- issue: Fresh dockerized node never produces blocks: getShard maxShardSize=0 -&gt; NotInShardError every consensus round (contradicts INSTALL.md "isolated single-validator chain by default") — open  https://github.com/kynesyslabs/node/issues/914
+- issue: docker compose up (Track-1 quickstart) fails on fresh clone: Dockerfile COPYs `bun.lock`, but it's gitignored — open  https://github.com/kynesyslabs/node/issues/913
+- issue: §10.3.1: substrate-failure-paused defines entry + timeout-exit but no success-resume transition — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/97
+- issue: §10.6 RatingRecord.dimensions is defined but consumed by no algorithm or conformance test — load-bearing or opaque? — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/96
+- issue: §10.6.1: anchor template uses `{raterClaim}` but RatingRecord has no such field (field is `rater`) — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/95
+- issue: §6.3.4: listing validation step (2) "dacsVersion supported" has no minor-version signal to test (vs §11.1.2 / §11.2.5) — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/94
+- issue: §10.3.1: optional rate phase — undefined settle-completed branch, missing rate-failed target, and unclear {required?} interaction — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/93
+- issue: §9/§10: Listing cancellationPolicy has no honored representation in the state machine or reputation model — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/92
+- issue: §10.4.3/§10.8/§10.3 endedAt depend on a "terminal state" the spec never enumerates — and §10.3.1 transitions to `failed-substrate`, which isn't in the SessionState enum — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/91
+- issue: §8.5.2: settle-by deadline check derives from self-reported generatedAt, not the chain anchor time — which clock should bound it? — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/90
+- issue: §6.3.4 / §8.5.2: listing notAfter only checked at read-time — what governs the read-to-commit interval? — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/86
+- issue: PIPE-5 fee-split appears unrealizable in the §9.5.1 PaymentPhaseInput contract — scope or data-model decision? — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/85
+- issue: §10.6 RatingRecord.value/freeText bounds are prose-only — no RT-* rule enforces them, so averageBuyer/SellerRating is poisonable — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/84
+- issue: §9.6.2 EntitlementRecord renewal: "anchored separately" looks unsatisfiable at the deterministic SR-2 address `dacs4:entitlement:{jobId}` — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/83
+- issue: §7.4.1 recipe-version pin branch is unreachable — no pin field in the Listing/ClaimRequirement schema (asymmetric with §9.3 railVersion) — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/82
+- issue: §14.5 conformance tests a state→next-state transition table that §10.3.1 never enumerates — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/81
+- issue: §10.3: abort states have no defined entry transition or legal predecessor states — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/80
+- issue: §10.4 / §11.2.5: anchored artifacts carry no producing standard-version, so a reader can't select the era-correct forward-compatible decode path — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/79
+- issue: Vet-layer VerifyResults publicly anchored at cleartext scheme:identifier addresses leak regulated-credential metadata — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/78
+- issue: §9.6.2/§9.6.3: delivery handlers read fields off agreement.terms.deliverable (DeliverableRef) that only exist on DeliverableSpec — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/77
+- issue: Registry-index address frozen at ':v0.1' vs. §11.1.2 minor-version registry updates — how does a v0.1 consumer discover v0.2 entries? — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/76
+- issue: §7.7: what binds `version_tag`? (tension with §11.1.2 independent per-stage minor versioning) — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/74
+- issue: §8.4.3 / §8.5.2: cross-currency amount comparison in sealed-envelope selection and negotiable band check has no currency-equality precondition or FX rule — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/71
+- issue: §10.4/§12: anchored AttestationBundles expose cleartext counterparty graph (primaryClaim) — no threat-catalogue row, no encrypted-anchoring option — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/68
+- issue: §14.5: "disputed" bundle-consumption test has no expected value in the AttestationBundle.outcome enum — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/65
+- issue: §9.9 streamed-entitlement "fresh jobId per loop" vs one-jobId-per-session (§7.5/§10.3) and §9.6.2 same-jobId renewal — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/64
+- issue: §9.7 SettlementEvidence lacks phaseIndex/actor that BundlePhaseEntry.index and failure-attribution depend on — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/62
+- issue: §9.6.2 deliver-entitlement dead-ends: EntitlementRecord names no callable service endpoint — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/61
+- issue: §9.5.5 / §9.13: tank capacity-exhaustion fallthrough to HTLC contradicts the pinned-rail rule and breaks the phase↔txRef-kind correspondence — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/60
+- issue: §8.4.2 negotiate-rfq output type is unsatisfiable on the failure path (required agreementHash/agreementRef vs. no-agreement terminations) — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/58
+- issue: §6.3.1 NFC normalisation: where does it happen relative to RFC 8785 JCS? — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/54
+- issue: §10.3 SessionState enum lacks the `failed-substrate` terminal state that §10.3.1, §10.4.3, §14.5, and §10.1 all reference — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/53
+- issue: §12.4 / §9.5.4: HTLC preimage-reveal front-running is a distinct class — catalogue gap + possibly overstated "mitigated for HTLC" status — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/52
+- issue: §11.1.1 / §7.4.4 governance MUSTs have no §14 test category, and the PA-phase MUST is unsatisfiable from a VerifyResult alone — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/49
+- issue: §12.4: availability-field poisoning (read pre-pin) is unmodelled in the threat catalogue — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/48
+- issue: §6.3.4(8) intake-only listings vs §9.9 PIPE-1 at-least-one-pay-phase: contradictory MUSTs — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/43
+- issue: §6.3.1 ClaimReference canonical equality underdefined: case-insensitive scheme + unordered parameters → split reputation identities and non-reproducible signatures — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/42
+- issue: §10.4.3: no mapping from phase-keyed failed states + errorClass → AttestationBundle.outcome; `transient` (retry-exhausted) and `settlement-atomicity` have no outcome bucket — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/41
+- issue: §12.4 Primary-adversary column references nine labels that have no §12.2 adversary-model row — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/40
+- issue: flow-trace: derivedFromPattern should be "rfq" (agreement enum), not "negotiate-rfq" (phase-kind); + clarify §8.5.2 — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/37
+- issue: §10.5.1 volume: groupSumByCurrency is uncomparable across currencies and game-able by denomination choice — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/31
+- issue: pay-x402: anchored bundle carries only the receipt hash, so §9.13's "verifiers MUST validate the signature" can't be re-verified by an auditor — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/28
+- issue: §9.5.5 liquidity-tank: no defined evidence shape for a partial (locked, not released) settlement during the recovery window — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/25
+- issue: §9.5.4: HTLC source-side claimant is ambiguous and contradicts the HTLC-7 safety proof — which settlement model does v0.1 mandate? — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/24
+- issue: §9.4.5 RAV-R4 vs §9.13: live→failed mid-session detection appears unsatisfiable under rail-pinning — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/23
+- issue: §8.3 membership-change has no defined body or admission-policy schema — CH-1 unimplementable as written — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/21
+- issue: §8.4.2: RFQ procedure references an undefined `rfqInitiator` field — phase param or listing field? — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/20
+- issue: §6.3.2: SIWD presentation binds an EVM address, but the primary claim may be non-EVM (Solana/PQC/keyless LEI) — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/16
+- issue: §7.8.1 VPC-4 vs §7.8.2 table: errorClass for a required-claim `decision=fail` is double-mapped (counterparty vs permanent) — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/13
+- issue: §8.3.3 / §8.12: cross-session offer-replay defense assumes channelId uniqueness that the envelope never requires — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/9
+- issue: §9.9 escrow pipeline vs §9.5.4 single-phase HTLC handler: no execution hook for deliver-* between lock and reveal — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/8
+- issue: §6.3.4: logical address embeds a colon-containing ClaimReference with no escaping — universal "reversible" guarantee looks unsatisfiable — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/7
+- issue: §7.7: three live domain separators (auto-accept-commitment, auto-accept-instance, session-binding) absent from the closed registry; two also carry unframed two-component payloads — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/6
+- issue: §7.4.2 / §7.3.5 / §7.4.1: ofac-clear negative-match can fail open on a truncated-but-parseable SDN.XML — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/5
+- issue: §7.12 `requireAll` MUST references a field undefined in §7.4.1 and contradicted by §7.7.1 OR-aggregation — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/4
+- issue: §10.5.1 derive() filters on aborter / counterparty_aborted_against, which the AttestationBundle schema (§10.4) never defines — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/2
+- issue: §7.3.2 verifiable-credential: VC verified but VP holder-binding never checked — replayed third-party credential passes — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/issues/1
+- pull_request: INDEX: add pathos-dacs-ref (reference impl) + dacs-drift (tool) — closed 2026-06-19T16:39:44Z https://github.com/DACS-Agent-commerce/Community/pull/1
+- commit: INDEX: add pathos-dacs-ref (reference impl) + dacs-drift (tool) —   https://github.com/DACS-Agent-commerce/Community/commit/c8d1a41d0ac194836d606b22422e2050f81d8cd2
+- pull_request: index: A2A trilogy — stranger-gauntlet, verify-peer (apps) + convergence-harness (tool) — closed 2026-07-26T18:05:35Z https://github.com/DACS-Agent-commerce/Community/pull/5
+- pull_request: fix(dacs-directory): detect #224 phase-index divergence in two-copy reconciliation — closed 2026-07-14T17:47:54Z https://github.com/DACS-Agent-commerce/Community/pull/14
+- pull_request: fix(dacs-directory): harden strict bundle verification — closed 2026-07-15T06:54:51Z https://github.com/DACS-Agent-commerce/Community/pull/15
+- pull_request: fix(directory): open-world listing shape — tolerate unknown top-level fields (SIG-5 / §11.1.2) — closed 2026-07-15T06:20:20Z https://github.com/DACS-Agent-commerce/Community/pull/16
+- pull_request: docs(index): list the DACS conformance partner kit — closed 2026-07-15T06:25:59Z https://github.com/DACS-Agent-commerce/Community/pull/18
+- pull_request: fix(directory): byte-order determinism-receipt sort, not locale collation (§10.5.3(2)) — closed 2026-07-15T07:19:50Z https://github.com/DACS-Agent-commerce/Community/pull/22
+- pull_request: directory: pin payee-bound coupling + drop leftover pay-evm-erc8183 rail label (#17) — closed 2026-07-26T17:58:18Z https://github.com/DACS-Agent-commerce/Community/pull/40
+- pull_request: §10.5.1 volume step dereferences an AttestationRef as if it were the AgreementDocument — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/3
+- commit: §10.5.1 volume step dereferences an AttestationRef as if it were the AgreementDocument —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/44642f5687f07f1f182880a028a215b756b90867
+- pull_request: §8.4.3: define a normative SealedBid body so selectionRule / SE-5 determinism is satisfiable — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/10
+- commit: §8.4.3: define a normative SealedBid body so selectionRule / SE-5 determinism is satisfiable —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/d2dfb700538af09b3d110c758f66b19cfd503923
+- pull_request: §8.3.3: make channel-message envelope_hash encoding explicit (hex) to match every other artifact — closed 2026-06-01T18:31:11Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/11
+- commit: §8.3.3: make channel-message envelope_hash encoding explicit (hex) to ma —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/6af8082bbef4d9daf3a5eeb86e057e12e94ec25d
+- pull_request: §10.4.1 reject-missing-signature rule contradicts §10.11 one-sided-bundle classification — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/12
+- commit: §10.4.1 reject-missing-signature rule contradicts §10.11 one-sided-bundl —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/116dffa169817c78e0fa6ee6d5fb35d6473d927a
+- pull_request: §7.7.1: per-unit classification tests indeterminate before error, against the stated failures &gt; errors &gt; indeterminates precedence — closed 2026-06-01T18:31:06Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/14
+- commit: §7.7.1: per-unit classification tests indeterminate before error, agains —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/8b40fedce9e1f7d968172241bd962889256e7650
+- pull_request: §7.4.1: add indeterminateOn / retryOnIndeterminate / retryBudget to Recipe schema so normative text + conformance suite are satisfiable — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/15
+- commit: §7.4.1: add indeterminateOn / retryOnIndeterminate / retryBudget to Reci —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/67271b5cff32f84b44bdf13974c302763973f0ef
+- pull_request: §6.3.3 match() verifies presentedBy scheme but not that the presentedBy claim is verified (tier-laundering gap) — closed 2026-06-01T19:19:58Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/17
+- commit: §6.3.3 match() verifies presentedBy scheme but not that the presentedBy —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/ef2cdc9b4bfa906b7070e6df447b501d9bdf5ba7
+- commit: fix: correct self-review finding (skipped-Codex remediation) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/2c520c3aadb0f15f97a4de7ee6cb57ffb7b57e7c
+- pull_request: §7.3.5/PS-2: gate consensus-backed-proxy decisions on attested HTTP status so a transient 5xx maps to error, not fail — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/18
+- commit: §7.3.5/PS-2: gate consensus-backed-proxy decisions on attested HTTP stat —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/616dbbdf833580b1c3e062128bcae0a8ef43a8b6
+- commit: fix: correct self-review finding (skipped-Codex remediation) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/568bda045448b94c8ab1c30e886e7d64efa29976
+- pull_request: §8.4.3: domain-separate and length-disambiguate the sealed-envelope bid commitment; add salt entropy/encoding floor — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/19
+- commit: §8.4.3: domain-separate and length-disambiguate the sealed-envelope bid —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/b311b82d2befdd0d22d05a4503e17d4fb22cf774
+- pull_request: §10.5.1: rating loop verifies the RatingRecord signature but never binds the rater to the session or names the verifying key — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/22
+- commit: §10.5.1: rating loop verifies the RatingRecord signature but never binds —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/2d6d673e8a8f611fcd1999cfc71763b4bb9b6a26
+- commit: fix: correct self-review finding (skipped-Codex remediation) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/e5d0056e0cd8317efb138c195ac2fa161cb482e6
+- pull_request: §9.3 PriceTerm.amount: add canonical-decimal rule so JCS-signed agreements are reproducible — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/26
+- commit: §9.3 PriceTerm.amount: add canonical-decimal rule so JCS-signed agreemen —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/b305df65c79123a8c06704682c7a78b2419285f7
+- pull_request: §10.5.3: make ReputationDerivation reproducible — bind bundleRefs to the scoped set + add a determinism receipt — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/29
+- pull_request: §10.5.1: window reputation on SR-2 anchor time, not self-asserted finalisedAt — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/30
+- commit: §10.5.1: window reputation on SR-2 anchor time, not self-asserted finali —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/59eb02e6f7e95af76e71a774d969829b2adf9235
+- pull_request: §12.2: add a "Malicious orchestrator" row to the adversary model (referenced in §12.4 but undefined) — closed 2026-06-01T18:31:35Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/32
+- commit: §12.2: add a "Malicious orchestrator" row to the adversary model (refere —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/4ecc817eb64acdc16d3b91f8c5d90ed2fba5efed
+- pull_request: §8.9: align sealed-envelope conformance row with SE-6 (rule-ref content-hash binding) — closed 2026-06-01T18:31:20Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/33
+- commit: §8.9: align sealed-envelope conformance row with SE-6 (rule-ref content- —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/a46d06b38c5242ee8ceb797a6b34b49252867cb0
+- pull_request: §9.5.2: lift amount.currency ↔ rail.asset symbol check into §9.5.1 common contract as PC-5 — closed 2026-06-01T18:31:25Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/34
+- commit: §9.5.2: lift amount.currency ↔ rail.asset symbol check into §9.5.1 commo —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/e901e3bf3e4bcd86f83867924a91e3800c141c7d
+- pull_request: §6.3.2: SIWD Resource line should carry a URI, not a bare hex string (EIP-4361 conformance) — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/35
+- pull_request: §6.3.1: erc8004 row is missing chainId/tokenId canonicalisation that §1609 + §3316 make normative — closed 2026-06-01T18:30:40Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/36
+- commit: §6.3.1: erc8004 row is missing chainId/tokenId canonicalisation that §16 —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/f83f2c2d14d479049a3006df7e8b940dbce987b6
+- pull_request: §7.4.1 / §9.4.1: governance schema omits the anchoring / emergency / deprecated fields §7.4.4 normatively requires — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/38
+- commit: §7.4.1 / §9.4.1: governance schema omits the anchoring / emergency / dep —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/641dafbd69b1956ba1c00d663741badfe7f4a1c9
+- pull_request: Define ComponentSignature — referenced by six anchored record types but never declared (§9.7) — closed 2026-06-01T18:31:30Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/39
+- commit: Define ComponentSignature — referenced by six anchored record types but —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/a5013b69591a152fa29592c3a1c4835ed00f515a
+- pull_request: §7.8 VetCredentialsOutput.overallDecision is missing the "error" member that VPC-4 maps — closed 2026-06-01T18:30:55Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/44
+- commit: §7.8 VetCredentialsOutput.overallDecision is missing the "error" member —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/4d2a4b4db4d74e330d462bcca744f719a623b03e
+- pull_request: Align §6.3.2/§7.3.2 content-hash checks with the spec's canonical-form integrity model — closed 2026-06-02T20:43:14Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/45
+- pull_request: §9.3: add htlc-refund ChainTxRef variant so the SR-5 timelock-refund path is evidenceable — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/46
+- commit: §9.3: add htlc-refund ChainTxRef variant so the SR-5 timelock-refund pat —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/5b28851417a7a6874875986d67bb6b7b73be6f30
+- pull_request: §9.5.4: distinguish the non-refundable "dest-revealed / source-claim-failed" HTLC state from a safe refund-timeout — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/47
+- commit: §9.5.4: distinguish the non-refundable "dest-revealed / source-claim-fai —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/5165e3ad8bb8985aeae01cb8f2950bae358ff111
+- pull_request: §12.4: missing threat-catalogue row for authority-endpoint TLS MITM (forged authority response) — closed 2026-06-01T18:31:40Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/50
+- commit: §12.4: missing threat-catalogue row for authority-endpoint TLS MITM (for —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/8231fc9847e6854000a29b230d8c06ef43b37663
+- pull_request: §12.4 / §8.12: add DACS-3 negotiation griefing / resource-exhaustion threat class (RFQ session-flooding, sealed-envelope commit-spam) — closed 2026-06-01T19:19:52Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/51
+- commit: §12.4 / §8.12: add DACS-3 negotiation griefing / resource-exhaustion thr —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/bbdd9742846cc2d633ec6baedb7a0a0e62a84ebf
+- pull_request: §7.2: define canonical representation for integers beyond the IEEE-754 safe range (JCS large-integer gap) — closed 2026-06-01T18:30:45Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/55
+- commit: §7.2: define canonical representation for integers beyond the IEEE-754 s —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/c358583db9452543acdb739d07a2f0594811bdac
+- pull_request: §7.4.4 PA-3: clarify that re-anchoring prior single-signer recipes is append-only (preserve monotonic recipeVersion immutability) — closed 2026-06-01T18:30:50Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/56
+- commit: §7.4.4 PA-3: clarify that re-anchoring prior single-signer recipes is ap —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/d9efced6d55021ce9726e805ed8f060af21c20f7
+- pull_request: §7.9: extend Verifier conformance range to VP-R4 (currently stops at VP-R3 but §7.6.1/§14.2 require it) — closed 2026-06-01T18:31:00Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/57
+- commit: §7.9: extend Verifier conformance range to VP-R4 (currently stops at VP- —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/4de50b4795e00d1b89877a8b8a974b2fb5f26883
+- pull_request: §9.3 DeliverableRef.hash: specify RFC 8785 JCS canonical form so the §8.5.2 conformance check is deterministic — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/59
+- commit: §9.3 DeliverableRef.hash: specify RFC 8785 JCS canonical form so the §8. —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/8f51179d15535ae423d31f726907d5d4250601e9
+- pull_request: §9.7.1: constrain SettlementAmendment.amendsEvidenceRef to a successful same-job settlement; bound refunds by settled amount — closed 2026-06-01T19:20:03Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/63
+- commit: §9.7.1: constrain SettlementAmendment.amendsEvidenceRef to a successful —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/731052493580780e31f57fa4be84894b212c9e67
+- commit: fix: correct self-review finding (skipped-Codex remediation) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/47f27993a71fc661a1dd4cf6aeaddd5ae186b3c4
+- pull_request: §9.5.1: scope errorClass:"substrate" to pre-settlement; add PC-5 for post-settlement anchor failure on cross-chain rails — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/66
+- pull_request: docs: add SECURITY.md — private vulnerability disclosure policy — closed 2026-06-01T18:30:35Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/67
+- commit: docs: add SECURITY.md — private vulnerability disclosure policy —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/7361f48d5efd0c50fc2916f9b2ae5fba5e76ec40
+- pull_request: Add commit-failed to SessionState enum (§10.3) — commit-agreement rejections have no legal target state — closed 2026-06-01T18:31:15Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/69
+- commit: Add commit-failed to SessionState enum (§10.3) — commit-agreement reject —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/3eddf29068d9b43af2738597837f048e4d97a2a5
+- pull_request: §9.3: constrain PriceTerm.amount to a positive value so non-positive bids/prices can't win selection — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/70
+- commit: §9.3: constrain PriceTerm.amount to a positive value so non-positive bid —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/3411289f52c18aacfc013d8d428261027c56e82a
+- pull_request: §8.4.3: sealed-envelope tie-break should use the SR-2 anchor timestamp, not self-reported commitTimestamp — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/72
+- commit: §8.4.3: sealed-envelope tie-break should use the SR-2 anchor timestamp, —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/d49c0bd81511a51027241656d65a5f81871fed0b
+- pull_request: §9.5.4: define the timelock epoch so HTLC-7's asymmetry guarantee is verifiable — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/73
+- commit: §9.5.4: define the timelock epoch so HTLC-7's asymmetry guarantee is ver —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/8aed41868c91bdc11a8b15ce62df83eb06f1ed1b
+- pull_request: §8.4.3 SE-3: reveal-window is enforced against an undefined clock — mirror SE-2's anchor-timestamp model — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/75
+- commit: §8.4.3 SE-3: reveal-window is enforced against an undefined clock — mirr —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/ea2bc1c872a0e35dcf09e95712078f93b2469ae8
+- pull_request: §6.3.6: sellers endpoint returns full cached IdentityBundle — propose narrowing to a discovery-minimal identity projection — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/87
+- commit: §6.3.6: sellers endpoint returns full cached IdentityBundle — propose na —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/894c9835e6966f064b4b112a0775f5f194c9fc44
+- pull_request: §6.3.2: document that DACS-1 v0.1 provides no per-claim selective disclosure (and add it to §11.2 follow-on) — closed 2026-06-01T19:19:47Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/88
+- commit: §6.3.2: document that DACS-1 v0.1 provides no per-claim selective disclo —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/53f92172b345c4fc1d8dae29ce04f099d77916b8
+- commit: fix: correct self-review finding (skipped-Codex remediation) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/93ebe7397b34ec28877046ed1a40fea140b03680
+- pull_request: §9.3/§8.5.2: constrain negotiable band (0 ≤ minPct ≤ maxPct, lower bound &gt; 0) and specify exact band arithmetic so §8.5.2 conformance is deterministic across verifiers — closed  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/89
+- pull_request: conformance: verifier-emitted AttestationBundle example (#133/D2, DACS-5 regen) — closed 2026-06-22T20:14:49Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/145
+- pull_request: regen(#133): lifecycle vectors → current v0.1 spec shapes; lift quarantine — closed 2026-06-23T13:49:57Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/163
+- pull_request: conformance(security): §7.12 VerifyResult-acceptance candidate vectors (#158: #6/#7/#17) — closed 2026-06-30T19:27:14Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/200
+- commit: conformance(security): §7.12 VerifyResult-acceptance candidate vectors (#158: #6/#7/#17) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/74d125d0755d5c6c39881b4d445e00f8bf8f2943
+- commit: conformance(security): add §9.4.4 rail-availability-selection vectors (#158 gap #13) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/d528a7cd84eb0f9ea22d9f3d9e888a35a8b18acb
+- commit: conformance(security): add §8.4.3 sealed-envelope bid-admission vectors (#158 gap #27) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/f576f5e86e6087ef069f1546fbcf663b31251266
+- pull_request: docs(composition): clarify AP2/x402/ERC-8004/A2A as evidence DACS binds, not inherited (#194) — closed 2026-07-03T07:28:35Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/205
+- commit: docs(composition): de-inherit AP2/x402/ERC-8004 over-claims + add contributes-vs-must-bind matrix (#194) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/1f24eecfc0442ac0e9ab6f6df43ee85cbf2054c0
+- commit: docs(DACS-4): repoint AP2 mandate-replay note §9.5.6 → §9.4.2 (steward review #205) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/a6bafd3f5ec034e3dd63914e01847f0a9b2ae33a
+- pull_request: conformance: FeeSchedule disclosure + reconciliation vectors (§8.5.3 FS-1..5, §9.7.2 FR-1..4) — #186 — closed 2026-07-02T09:27:53Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/206
+- commit: conformance: FeeSchedule disclosure + reconciliation vectors (§8.5.3 FS-1..5, §9.7.2 FR-1..4) — #186 —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/02b8f11b9da2e3bec4255991335e7ec1b20031a8
+- pull_request: conformance: private-deliverable + entitlement-credential vectors (DV-1..DV-6) — #190 — closed 2026-07-02T09:30:53Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/207
+- commit: conformance: private-deliverable + entitlement-credential vectors (DV-1..DV-6) — #190 —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/16a4ea7da7b371459a1de21f049b3aff679b364f
+- pull_request: tooling(diff-vector-runs): resolve golden identity fixtures (cases()) directly — closed 2026-07-07T10:36:45Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/217
+- review: DACS-1: define revocation marker discovery binding — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/253#pullrequestreview-4704448508
+- review: DACS-5: classify shared-index phase kind mismatch as divergence — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/254#pullrequestreview-4704448637
+- review: fix(dacs-5): require authoritative absence for one-copy attribution — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/255#pullrequestreview-4704448737
+- review: Pin x402 receipt hash preimage — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/258#pullrequestreview-4709998070
+- review: Add Listing preserve-unknown vectors — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/259#pullrequestreview-4706996517
+- review: Add executable minimum-conformant lifecycle walkthrough — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/269#pullrequestreview-4729240219
+- review: fix(conformance): regenerate closed signature registry golden — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/295#pullrequestreview-4787524678
+- review: fix(conformance): regenerate closed signature registry golden — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/295#pullrequestreview-4800448995
+- review: fix(conformance): regenerate closed signature registry golden — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/295#pullrequestreview-4816016804
+- review: Clarify Demos identity and listing reachability — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/296#pullrequestreview-4799071510
+- review: fix(docs): align flow-trace signing preimage with CORE — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/297#pullrequestreview-4792513149
+- review: spec: define SR-2 anchor lifecycle and finality gates — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/302#pullrequestreview-4799242778
+- review: fix(conformance): require MVR-7 orchestrator signature — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/303#pullrequestreview-4803122568
+- review: fix(DACS-5): reconcile legacy three-party fault sets — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/305#pullrequestreview-4827036292
+- review: fix(DACS-1): resolve listing rails from canonical registry — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/306#pullrequestreview-4815936852
+- review: fix(DACS-1): resolve listing rails from canonical registry — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/306#pullrequestreview-4818958835
+- review: fix(DACS-1): resolve listing rails from canonical registry — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/306#pullrequestreview-4839605618
+- review: fix(DACS-4): define cci-xm rail chain applicability — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/309#pullrequestreview-4827070818
+- review: Fix artifact reference conformance shapes — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/310#pullrequestreview-4826953606
+- review: fix(DACS-4): bind attested payload evidence — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/311#pullrequestreview-4827301732
+- review: fix(DACS-4): bind attested payload evidence — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/311#pullrequestreview-4840212766
+- pull_request: fix(DACS-4): §9.5.6 pay-ap2 conformance cluster (#276 #279 #280 #281 #282 #284) — closed 2026-08-25T13:33:29Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/312
+- commit: fix(DACS-4): §9.5.6 pay-ap2 conformance cluster (#276 #279 #280 #281 #282 #284) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/d5cc6fcf4b81ff75b346542b114e20429c47c57c
+- commit: Merge remote-tracking branch 'origin/next' into agent/ap2-cluster-9.5.6 —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/aeae9d49a6d6292935b5dfe8ced8768c9bbc7e79
+- pull_request: conformance: executable Work-evidence classifier + vectors (RFC #320) — open  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/322
+- commit: conformance(security): executable Work-receipt/absence verifier + vectors (RFC #320) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/dfc6062d07e71c5860358bad7e3ac80fcaf1c3ae
+- commit: conformance(ci): execute the RFC #320 Work-receipt verifier on a pinned Node runtime —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/47b0a27f62dd7cee470c87c8b6db60a36c0b6986
+- commit: Merge remote-tracking branch 'origin/next' into agent/rfc-320-work-receipt-verifier —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/23af4cc0e6089583fbcef0b32afd4405368570ea
+- commit: conformance(ci): pin the setup-node action by SHA and assert runtime provisioning —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/4f5d2e19d73076d86d0e261f9ae6d13b9e945ea5
+- commit: conformance(verify): order invalid-proof before unknown-transition; require proven transitions for pass —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/1c6f762abc71a988253bec57ff9a61f5660b9414
+- commit: conformance(verify): evaluate invalid proof material before the structural gate —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/b5a3c0c83dd48417488fe1c70d3d82555473ae8b
+- commit: conformance(verify): validate receipt/identity structure before trusting declared labels —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/bb010229e98f7bc7bf72cc2ce9467705c85c2398
+- commit: conformance(verify): bind absence evidence to a subject; tighten identity predicates —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/188d268c9390cf7bb72a2ba445c9536547185818
+- commit: conformance(verify): scope contradiction to the outcome, match absence subjects, drop the bare-boolean accept path —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/82383a80b515ae9a4cb5a81b2a1484fca25d23ea
+- commit: conformance(verify): make contradiction-outranks-missing hold in the absence and settlement lanes —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/7e64d13167e979987ad575215d7a2c91d0a20c26
+- commit: conformance(verify): apply trusted-material and contradiction rules uniformly across all lanes —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/027c8e1fa758e6b6036307f84963f452581cc51d
+- commit: conformance(verify): pin the string-phase-index case and align stale finite wording —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/14e03217aa3caac8de1afe845f3a84c619bacdde
+- commit: conformance(verify): require non-negative SAFE integers for indices and heights —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/9c0544ca2d42fdd073c275ae18384dad2688dd84
+- commit: docs(verify): align remaining index wording with safe-integer enforcement —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/3d1382c4e1e52801ffe38d59ba4eed7e36cb3313
+- commit: Merge remote-tracking branch 'origin/next' into agent/rfc-320-work-receipt-verifier —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/0bdff5664a4aac8ab1b94f448fd34c8461e2ab72
+- commit: conformance: rename the verifier to an evidence classifier (path 2, #322) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/1331a95a868e561936dd93c9fdb4b80927001444
+- commit: conformance: finish the vocabulary migration and stop the metadata overstating it —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/dd63645664414921515b840b50312808acf20e36
+- commit: conformance: stop the prose implying verification the classifier does not perform —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/204781ba1edc26114364588ca82d0ec6654e4573
+- commit: conformance: sweep the remaining verification-implying language —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/6f642d00177b894d2bd1aedac229735f6b0fb384
+- commit: conformance: final vocabulary sweep — proof-result status, positive class, safe-integer —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/6b9bc8b512d8773ad917eeb959f263a0ea7500ec
+- commit: Merge remote-tracking branch 'origin/next' into agent/rfc-320-work-receipt-verifier —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/81cbd2d8d357269a141495714c7c90c0bbb28a99
+- commit: Merge origin/next into claude/pr322-conflict-20260919 —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/8b28f139ad468a3e8e3a2d31244ccc2d8b1f83f7
+- review: fix(rails): enforce authoritative availability selection — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/326#pullrequestreview-4907618897
+- review: test(domain): complete DCR and DGCR vector coverage — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/337#pullrequestreview-4992936322
+- review: test(domain): complete DCR and DGCR vector coverage — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/337#pullrequestreview-5041237107
+- review: fix(CORE): define portable SR-2 resolution and registry bootstrap — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/338#pullrequestreview-4960939091
+- review: fix(CORE): define portable SR-2 resolution and registry bootstrap — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/338#pullrequestreview-5041236687
+- review: fix(CORE): define portable SR-2 resolution and registry bootstrap — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/338#pullrequestreview-5050592509
+- review: fix(CORE): define portable SR-2 resolution and registry bootstrap — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/338#pullrequestreview-5092058500
+- review: fix(CORE): define portable SR-2 resolution and registry bootstrap — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/338#pullrequestreview-5096443075
+- review: fix(CORE): define portable SR-2 resolution and registry bootstrap — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/338#pullrequestreview-5191011649
+- review: fix(CORE): define portable SR-2 resolution and registry bootstrap — CHANGES_REQUESTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/338#pullrequestreview-5191725815
+- review: fix(CORE): define portable SR-2 resolution and registry bootstrap — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/338#pullrequestreview-5228516050
+- review: fix(CORE): define portable SR-2 resolution and registry bootstrap — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/338#pullrequestreview-5235905637
+- commit: test(registry): renew D1 bootstrap fixture bindings —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/3c94a48e8480ed9da7072f71f5e204861f2dce2f
+- commit: fix(x402): require bounded public fetch —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/182546c8181795cbfa60b10859d4840bb9ef5c71
+- pull_request: docs(security): describe the disclosure channels this repository actually has — closed 2026-08-27T19:21:44Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/342
+- commit: docs(security): describe the disclosure channels this repo actually has —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/e65b5b1f14bcbacd4a81d575715329a837e8fdf0
+- commit: docs(security): describe channels as now-live after PVR was enabled —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/00daeec0205771b1fdb474f3f9d09d487123660a
+- review: fix(CORE): pin canonical jobId grammar — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/343#pullrequestreview-5041236885
+- review: fix(CORE): pin canonical jobId grammar — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/343#pullrequestreview-5090955020
+- review: spec(DACS-4): define signed alternative-payment projection — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/344#pullrequestreview-5041237685
+- review: spec(DACS-4): define signed alternative-payment projection — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/344#pullrequestreview-5050592292
+- review: test(identity): enforce signed bundle-version legacy boundary — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/348#pullrequestreview-5084079061
+- review: test(identity): enforce signed bundle-version legacy boundary — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/348#pullrequestreview-5089654117
+- review: fix(vet): authenticate VPC-2 requirement provenance — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/350#pullrequestreview-5084123197
+- review: fix(vet): authenticate VPC-2 requirement provenance — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/350#pullrequestreview-5124956707
+- review: fix(vet): authenticate VPC-2 requirement provenance — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/350#pullrequestreview-5247183942
+- review: fix(conformance): enforce RD-5 EVM chain ID equality — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/353#pullrequestreview-5084156624
+- review: fix(conformance): enforce RD-5 EVM chain ID equality — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/353#pullrequestreview-5092189763
+- review: fix(conformance): enforce RD-5 EVM chain ID equality — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/353#pullrequestreview-5095847892
+- pull_request: Replace the retired HTLC-9 correction pack with a signed ST-8 supersession pair and a verifier that verifies (#99) — closed 2026-09-03T10:40:15Z https://github.com/DACS-Agent-commerce/DACS-Standard/pull/355
+- commit: Harden the HTLC-9 ST-8 verifier after the converged review round —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/c89a799643ee5abee9eadf2d1e4cb70c77470b60
+- commit: verify: NFC-normalise string values instead of rejecting NFD on the wire (CF-1) —   https://github.com/DACS-Agent-commerce/DACS-Standard/commit/a2888064c14ad68790911d8d81c3c955d50cfff1
+- review: docs(ROADMAP): activate delivery-or-remedy programme — DISMISSED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/358#pullrequestreview-5084061028
+- review: docs(ROADMAP): activate delivery-or-remedy programme — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/358#pullrequestreview-5094627334
+- review: docs(ROADMAP): activate delivery-or-remedy programme — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/358#pullrequestreview-5104028301
+- review: spec(dacs-4): separate AP2 receipt transaction reference — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/361#pullrequestreview-5116721457
+- review: spec(dacs-4): separate AP2 receipt transaction reference — CHANGES_REQUESTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/361#pullrequestreview-5212321826
+- review: spec(dacs-4): separate AP2 receipt transaction reference — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/361#pullrequestreview-5228331670
+- review: spec(dacs-4): separate AP2 receipt transaction reference — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/361#pullrequestreview-5238670677
+- review: fix(conformance): repair presence result reference hashes — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/362#pullrequestreview-5093537971
+- review: fix(conformance): repair presence result reference hashes — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/362#pullrequestreview-5191680006
+- review: fix(conformance): repair presence result reference hashes — CHANGES_REQUESTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/362#pullrequestreview-5197012265
+- review: fix(conformance): repair presence result reference hashes — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/362#pullrequestreview-5200615132
+- review: fix(walkthrough): emit current SettlementEvidence shapes — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/365#pullrequestreview-5091913894
+- review: fix(walkthrough): emit current SettlementEvidence shapes — DISMISSED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/365#pullrequestreview-5095835564
+- review: fix(walkthrough): emit current SettlementEvidence shapes — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/365#pullrequestreview-5104027779
+- review: spec: define canonical DACS-3 channel message wire — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/367#pullrequestreview-5159024833
+- review: spec: define canonical DACS-3 channel message wire — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/367#pullrequestreview-5187750479
+- review: spec: define canonical DACS-3 channel message wire — CHANGES_REQUESTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/367#pullrequestreview-5193034337
+- review: spec: define canonical DACS-3 channel message wire — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/367#pullrequestreview-5228420681
+- review: conformance: demote output-only DACS-X expectations — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/368#pullrequestreview-5104027961
+- review: docs(spec): draft delivery-or-remedy profile — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/371#pullrequestreview-5104028498
+- review: docs(spec): draft delivery-or-remedy profile — CHANGES_REQUESTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/371#pullrequestreview-5188493164
+- review: test(spec): add delivery-or-remedy candidate vectors — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/372#pullrequestreview-5095978696
+- review: test(spec): add delivery-or-remedy candidate vectors — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/372#pullrequestreview-5104028709
+- review: fix(CORE): require raw JSON admission before canonicalization — CHANGES_REQUESTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/387#pullrequestreview-5116721628
+- review: fix(CORE): require raw JSON admission before canonicalization — CHANGES_REQUESTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/387#pullrequestreview-5121370362
+- review: fix(CORE): require raw JSON admission before canonicalization — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/387#pullrequestreview-5191011719
+- review: fix(DACS-4): fail closed when declared SB-3 binding is unavailable — CHANGES_REQUESTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/388#pullrequestreview-5117269463
+- review: fix(DACS-4): fail closed when declared SB-3 binding is unavailable — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/388#pullrequestreview-5121329100
+- review: fix(DACS-4): authenticate settlement collision authority — CHANGES_REQUESTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/389#pullrequestreview-5117269563
+- review: fix(DACS-4): authenticate settlement collision authority — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/389#pullrequestreview-5121424553
+- review: fix(DACS-4): authenticate settlement collision authority — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/389#pullrequestreview-5121477892
+- review: fix(DACS-4): authenticate settlement collision authority — CHANGES_REQUESTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/389#pullrequestreview-5121788003
+- review: fix(CORE): add identity-bound agreement types and lifecycle verification — CHANGES_REQUESTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/390#pullrequestreview-5117269658
+- review: fix(CORE): add identity-bound agreement types and lifecycle verification — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/390#pullrequestreview-5121384003
+- review: fix(CORE): add identity-bound agreement types and lifecycle verification — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/390#pullrequestreview-5158984498
+- review: fix(verify): authenticate legacy bundle era — CHANGES_REQUESTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/391#pullrequestreview-5117269738
+- review: fix(verify): authenticate legacy bundle era — CHANGES_REQUESTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/391#pullrequestreview-5121407920
+- review: fix(verify): authenticate legacy bundle era — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/391#pullrequestreview-5191011772
+- review: fix(verify): authenticate legacy bundle era — CHANGES_REQUESTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/391#pullrequestreview-5191218747
+- review: fix(verify): authenticate legacy bundle era — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/391#pullrequestreview-5228360972
+- review: fix(verify): authenticate legacy bundle era — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/391#pullrequestreview-5238157042
+- review: fix(settle): verify canonical settlement finality — CHANGES_REQUESTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/392#pullrequestreview-5117269854
+- review: fix(settle): verify canonical settlement finality — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/392#pullrequestreview-5121444021
+- review: fix(settle): verify canonical settlement finality — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/392#pullrequestreview-5233923437
+- review: fix(settle): verify canonical settlement finality — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/392#pullrequestreview-5242167738
+- review: fix(settle): verify canonical settlement finality — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/392#pullrequestreview-5247086979
+- review: fix(settle): authenticate legacy agreement era — CHANGES_REQUESTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/393#pullrequestreview-5117269960
+- review: fix(settle): authenticate legacy agreement era — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/393#pullrequestreview-5121441405
+- review: fix(settle): authenticate legacy agreement era — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/393#pullrequestreview-5249101103
+- review: fix(settle): authenticate legacy agreement era — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/393#pullrequestreview-5250584667
+- review: fix(settle): authenticate legacy agreement era — COMMENTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/393#pullrequestreview-5255216614
+- review: fix(settle): authenticate legacy agreement era — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/393#pullrequestreview-5255668935
+- review: fix(verify): authenticate reputation window time — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/394#pullrequestreview-5117270051
+- review: fix(verify): authenticate reputation window time — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/394#pullrequestreview-5121435235
+- review: fix(verify): authenticate reputation window time — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/394#pullrequestreview-5232758715
+- review: fix(verify): authenticate reputation window time — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/394#pullrequestreview-5233944170
+- review: fix(verify): authenticate reputation window time — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/394#pullrequestreview-5256627145
+- review: fix(verify): authenticate reputation window time — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/394#pullrequestreview-5256790133
+- review: fix(verify): require signed participation before blame (#373) — CHANGES_REQUESTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/395#pullrequestreview-5118040284
+- review: fix(verify): require signed participation before blame (#373) — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/395#pullrequestreview-5170621085
+- review: fix(verify): require signed participation before blame (#373) — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/395#pullrequestreview-5260572790
+- review: fix(identify): require authoritative revocation completeness (#375) — DISMISSED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/396#pullrequestreview-5118040384
+- review: fix(identify): require authoritative revocation completeness (#375) — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/396#pullrequestreview-5121422179
+- review: fix(identify): require authoritative revocation completeness (#375) — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/396#pullrequestreview-5233737621
+- review: fix(identify): require authoritative revocation completeness (#375) — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/396#pullrequestreview-5260728294
+- review: fix(identify): require authoritative revocation completeness (#375) — DISMISSED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/396#pullrequestreview-5261029246
+- review: fix(identify): require authoritative revocation completeness (#375) — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/396#pullrequestreview-5261157237
+- review: fix(identify): require authoritative revocation completeness (#375) — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/396#pullrequestreview-5261613579
+- review: fix(identify): require authoritative revocation completeness (#375) — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/396#pullrequestreview-5261789931
+- review: fix(identify): require authoritative revocation completeness (#375) — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/396#pullrequestreview-5263796630
+- review: fix(identify): require authoritative revocation completeness (#375) — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/396#pullrequestreview-5268233913
+- review: fix(negotiate): authenticate sealed auction candidate sets (#376) — CHANGES_REQUESTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/397#pullrequestreview-5118040475
+- review: fix(negotiate): authenticate sealed auction candidate sets (#376) — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/397#pullrequestreview-5121484831
+- review: fix(negotiate): authenticate sealed auction candidate sets (#376) — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/397#pullrequestreview-5191680139
+- review: fix(negotiate): authenticate sealed auction candidate sets (#376) — CHANGES_REQUESTED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/397#pullrequestreview-5197021673
+- review: fix(negotiate): authenticate sealed auction candidate sets (#376) — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/397#pullrequestreview-5200615542
+- review: fix(negotiate): authenticate sealed auction candidate sets (#376) — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/397#pullrequestreview-5212256300
+- review: conformance: propose revision-bound cross-run evidence and record audit — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/402#pullrequestreview-5224980716
+- review: docs: correct validation setup and golden Verify count — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/403#pullrequestreview-5212230082
+- review: docs(conformance): package the PR #362 evaluation pilot — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/404#pullrequestreview-5212277309
+- review: docs(conformance): package the PR #362 evaluation pilot — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/404#pullrequestreview-5221951651
+- review: test(review): enforce independent counterexample evidence — APPROVED  https://github.com/DACS-Agent-commerce/DACS-Standard/pull/409#pullrequestreview-5346468495
+- review: feat(rails): pay-dem native-DEM settlement rail via D402 — COMMENTED  https://github.com/DACS-Agent-commerce/dacs-sdk/pull/25#pullrequestreview-4639277734
+- review: feat(rails): real §9.5.9 pay-dem native rail + settle-seam finality (F7/#22) — COMMENTED  https://github.com/DACS-Agent-commerce/dacs-sdk/pull/32#pullrequestreview-4656127716
+- review: feat: add normative Listing fidelity and engagement — COMMENTED  https://github.com/DACS-Agent-commerce/dacs-sdk/pull/110#pullrequestreview-4911014136
+- pull_request: fix(funded): ignore trailing package version metadata in classifier — closed 2026-08-25T08:06:18Z https://github.com/DACS-Agent-commerce/dacs-sdk/pull/193
+- review: (P1) Integrate strict dual-rail audit completion — COMMENTED  https://github.com/DACS-Agent-commerce/dacs-sdk/pull/253#pullrequestreview-5359871224
+- review: feat(dacs-node): finalize authenticated pre-agreement Vet failures — COMMENTED  https://github.com/DACS-Agent-commerce/dacs-sdk/pull/256#pullrequestreview-5365421974
+- pull_request: Close the CORE §B.7 registry at 28 and advance the Standard oracle pin to 662be1d — closed 2026-09-02T19:58:42Z https://github.com/DACS-Agent-commerce/dacs-sdk/pull/263
+- review: feat(rails): add fail-closed pay-ap2 settlement core — DISMISSED  https://github.com/DACS-Agent-commerce/dacs-sdk/pull/264#pullrequestreview-5105109414
+- review: feat(rails): add fail-closed pay-ap2 settlement core — DISMISSED  https://github.com/DACS-Agent-commerce/dacs-sdk/pull/264#pullrequestreview-5111624812
+- review: feat(rails): add restart-safe Solana SPL settlement core — COMMENTED  https://github.com/DACS-Agent-commerce/dacs-sdk/pull/266#pullrequestreview-5097089744
+- review: feat(rails): add restart-safe Solana SPL settlement core — APPROVED  https://github.com/DACS-Agent-commerce/dacs-sdk/pull/266#pullrequestreview-5105109553
+- review: feat(rails): add restart-safe Solana SPL settlement core — DISMISSED  https://github.com/DACS-Agent-commerce/dacs-sdk/pull/266#pullrequestreview-5111624942
+- review: feat(rails): add restart-safe Solana SPL settlement core — APPROVED  https://github.com/DACS-Agent-commerce/dacs-sdk/pull/266#pullrequestreview-5138859814
+- review: fix(one-click): bind buyer evidence and preserve replay identity — COMMENTED  https://github.com/DACS-Agent-commerce/dacs-sdk/pull/303#pullrequestreview-5444006945
+- review: fix(rfq): reject oversized durable filesystem records — APPROVED  https://github.com/DACS-Agent-commerce/dacs-sdk/pull/324#pullrequestreview-5217030019
+- pull_request: fix(canonical): align core JSON depth admission at 128 — closed  https://github.com/DACS-Agent-commerce/dacs-sdk/pull/325
+- pull_request: feat(canonical): add explicit CF-5 raw-byte admission — closed 2026-10-06T08:26:54Z https://github.com/DACS-Agent-commerce/dacs-sdk/pull/326
+- review: fix: align CF-5 depth admission and reduce filesystem lock retry I/O — DISMISSED  https://github.com/DACS-Agent-commerce/dacs-sdk/pull/328#pullrequestreview-5390357256
+- pull_request: feat(agent): resolve PC-2 anchors with authenticated writer authority (#316 item 1) — open  https://github.com/DACS-Agent-commerce/dacs-sdk/pull/335
+- commit: feat(agent): resolve PC-2 anchors with authenticated writer authority —   https://github.com/DACS-Agent-commerce/dacs-sdk/commit/ad4e81584be6fee9e8243cbcb7612dfc3d765fc4
+- pull_request: docs(sdk): add D402 agent-payment cookbook (HTTP-402 settlement loop) — open  https://github.com/kynesyslabs/documentation-mintlify/pull/8
+- commit: docs(sdk): add D402 agent-payment cookbook (HTTP-402 settlement loop) —   https://github.com/kynesyslabs/documentation-mintlify/commit/4e1ab76683776bcb11913e51a0bb589525c8069d
+- commit: docs: fix amount-rule contradiction (exact-match -&gt; &gt;= semantics) —   https://github.com/kynesyslabs/documentation-mintlify/commit/1c03ec9d22ccd09c21a01b26763c266e484b24b0
+- pull_request: fix(d402): @example amount uses 10^18 (ETH) but Demos OS_PER_DEM is 10^9 — open  https://github.com/kynesyslabs/sdks/pull/92
+- commit: fix(d402): @example amount uses 10^18 (ETH) but Demos OS_PER_DEM is 10^9 —   https://github.com/kynesyslabs/sdks/commit/d6adf4f3491e6c6a8a73cf684c9bce324aa167b8
+- commit: fix: @example amount must be a string (OS path), not a number (DEM path) —   https://github.com/kynesyslabs/sdks/commit/2725bbea670615570189e3f2a09c1fe5598b9c5a
+- pull_request: docs(readme): show preferred bigint-OS transfer amount (3.0.0-rc.1 migration) — open  https://github.com/kynesyslabs/sdks/pull/93
+- commit: docs(readme): show preferred bigint-OS transfer amount (3.0.0-rc.1 migration) —   https://github.com/kynesyslabs/sdks/commit/5778f1e85a137842eadac74cdeecf35e6cccb81b
+- commit: docs: use denomination.demToOs(100) instead of a magic OS literal (Qodo review) —   https://github.com/kynesyslabs/sdks/commit/c5d89752a8aca097f4b95967c11d3ab771e5a42d
+- pull_request: Contribution from 0xf5abbb44...d208 — closed 2025-12-11T15:52:13Z https://github.com/kynesyslabs/zk_ceremony/pull/24
+- milestone: External private DACS RFQ testnet run settled; SDK setup pruning bug observed —   https://explorer.demos.network/tx/edd16dfba98d7666bb4742c5c354d8fb507ace9bab48b16c8c405356b4202ea1
+- milestone: Completed arena practice deal between differently attested owner keys; offer title says Common ownership —   https://supercolony.demos.network/api/arena/export

@@ -29,6 +29,9 @@ agreement admission and conformance fixes, SDK contributions, and upstream revie
 
 ## Arena practice and an external private RFQ
 
+Pally (pallytin88) published the private RFQ package on 2026-10-09 at
+[pallytin88/dacs-rfq](https://github.com/pallytin88/dacs-rfq).
+
 The [public arena export](https://supercolony.demos.network/api/arena/export) records the completed PATH-OS seller deal at sequences 367–371.
 Its nominal price is 0.01 DEM, with 0 DEM transferred under unfunded practice.
 The buyer registration is “SuperColony DACS RFQ buyer,” owned by “SuperColony

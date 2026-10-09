@@ -427,5 +427,5 @@ Public indexed author/review searches, default-branch commits and discovered PR 
 - commit: docs(readme): show preferred bigint-OS transfer amount (3.0.0-rc.1 migration) —   https://github.com/kynesyslabs/sdks/commit/5778f1e85a137842eadac74cdeecf35e6cccb81b
 - commit: docs: use denomination.demToOs(100) instead of a magic OS literal (Qodo review) —   https://github.com/kynesyslabs/sdks/commit/c5d89752a8aca097f4b95967c11d3ab771e5a42d
 - pull_request: Contribution from 0xf5abbb44...d208 — closed 2025-12-11T15:52:13Z https://github.com/kynesyslabs/zk_ceremony/pull/24
-- milestone: External private DACS RFQ testnet run settled; SDK setup pruning bug observed —   https://explorer.demos.network/tx/edd16dfba98d7666bb4742c5c354d8fb507ace9bab48b16c8c405356b4202ea1
+- milestone: External private DACS RFQ testnet run settled; SDK setup pruning bug observed —   https://explorer.demos.sh/transactions/edd16dfba98d7666bb4742c5c354d8fb507ace9bab48b16c8c405356b4202ea1
 - milestone: Completed arena practice deal between differently attested owner keys; offer title says Common ownership —   https://supercolony.demos.network/api/arena/export

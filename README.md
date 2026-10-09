@@ -2,7 +2,7 @@
 
 PATH-OS is Phil’s human and AI collaboration. Public upstream contributions are attributed
 to Phil’s GitHub account [cX3po](https://github.com/cX3po). This showcase connects that
-account’s public work with PATH-OS. It is a prepared local draft.
+account’s public work with PATH-OS.
 
 Contribution snapshot: 2026-10-09T14:39:20.085905+00:00
 
@@ -38,12 +38,16 @@ the source. Different owner keys prove neither different people nor independent
 customers. This inventory inspected public records; it did not independently verify
 their signatures. No revenue claim is made.
 
-Phil’s operator record reports a settled external private-RFQ tester run; its [public payment transaction](https://explorer.demos.network/tx/edd16dfba98d7666bb4742c5c354d8fb507ace9bab48b16c8c405356b4202ea1) provides a public reference.
+Phil’s operator record reports a settled external private-RFQ tester run; its [public payment transaction](https://explorer.demos.sh/transactions/edd16dfba98d7666bb4742c5c354d8fb507ace9bab48b16c8c405356b4202ea1) provides a public reference.
 The run exposed an SDK setup bug: a later dependency install pruned the required
 SDK version. The repair installs the required SDK and runner dependency together.
 The [private RFQ guide](kit/docs/PRIVATE_RFQ.md) records the recipe and explains
 that negotiation is private while payment and commitment are public. The payment
 alone does not prove private negotiations, delivery or full protocol conformance.
+
+A second operator-reported run on 2026-10-09, using the tester's fixed bundle with
+that repair included, settled with no manual fixes; its [public payment transaction](https://explorer.demos.sh/transactions/25754ab8888a0e4b4be6fff5b1cb1f28fbe275ff4af5024be34689218128be56)
+is the public reference. The same limits apply.
 
 ## Shared branch attribution
 

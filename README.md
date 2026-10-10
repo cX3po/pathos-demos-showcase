@@ -52,6 +52,42 @@ A second operator-reported run on 2026-10-09, using the tester's fixed bundle wi
 that repair included, settled with no manual fixes; its [public payment transaction](https://explorer.demos.sh/transactions/25754ab8888a0e4b4be6fff5b1cb1f28fbe275ff4af5024be34689218128be56)
 is the public reference. The same limits apply.
 
+## After the 2026-10-09 snapshot
+
+The contribution table and the snapshot time above are unchanged. The notes
+below are 2026-10-10 records. They are not a new count of the table.
+
+[pallytin88/dacs-rfq pull request 1](https://github.com/pallytin88/dacs-rfq/pull/1)
+was open at `2f9de3240567431c9832f052edf109b517fed839`. A read of that pull
+request's reviews on 2026-10-10 returned one review: cX3po marked that commit
+`APPROVED` at 2026-10-10T22:23:24Z
+([review 5481018024](https://github.com/pallytin88/dacs-rfq/pull/1#pullrequestreview-5481018024)).
+The commit subject is `docs: drop the "L2PS transport pending" wording; test commands for a standalone checkout`,
+with author date 2026-10-10T19:24:23Z. The compare against
+`ddbb3ccba8e52075bc50f08fa48e46c10b7b4121` lists `README.md` and `package.json`
+only
+([compare](https://github.com/pallytin88/dacs-rfq/compare/ddbb3ccba8e52075bc50f08fa48e46c10b7b4121...2f9de3240567431c9832f052edf109b517fed839)).
+
+A PATH-OS operator record dated 2026-10-10 reports one settled Base Sepolia
+payment of 0.01 test USDC and delivery from the opt-in MCP tool
+`demos_x402_showcase`. That record describes a local loopback MCP call, not a
+public endpoint, and states that the source branch was not pushed. The public
+transaction is
+[0x21c10268b6e87de13f922b5c908c6c10c89d876aa06a42af3554f9eba01f4f1e](https://sepolia.basescan.org/tx/0x21c10268b6e87de13f922b5c908c6c10c89d876aa06a42af3554f9eba01f4f1e),
+block 47945945, status success. That record states a USDC transfer of 0.01 at
+log 246, immediately after an AuthorizationUsed log 245, and it states that
+no complete anchored DACS commerce session is claimed.
+
+A separate PATH-OS operator record dated 2026-10-10 reports one OpenClaw
+signature on an unanchored listing, content hash
+`e477a0cb173f99b85dab63829b69a647ed401a97658bd51e0382baebf3d4cf20`, price
+0.01 USDC, and one seller-only legacy offer, job `01M4KWK773F80BXF96G2Z8XHVE`,
+agreement hash `4f9e4ab744f0c680d51cf5b327f8fef11e4476a354eed3630db630af67e24e61`.
+That record states that neither artifact has an on-chain transaction id, and
+that no buyer payment, delivery, or settlement evidence was produced. It
+records the listing verifier as indeterminate and the offer as seller-signed
+only.
+
 ## Shared branch attribution
 
 The current public commit list for [SDK PR #332](https://github.com/DACS-Agent-commerce/dacs-sdk/pull/332) contains 5 commits, of which 0 are linked by GitHub to cX3po.

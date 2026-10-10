@@ -88,6 +88,23 @@ that no buyer payment, delivery, or settlement evidence was produced. It
 records the listing verifier as indeterminate and the offer as seller-signed
 only.
 
+## OpenClaw paid sale — 2026-10-10
+
+A PATH-OS operator record reports a test x402 payment and delivery through OpenClaw in a
+sandboxed VM on **Base Sepolia testnet**. The public
+[transaction](https://sepolia.basescan.org/tx/0x6922cc3e53d6c17864411e39e906c7c78e38f7af4166b6d42cf1270366492378)
+succeeded in block **47952879**, transferring **10000 atomic units (0.01 test
+USDC, 6 decimals)** on token contract
+`0x036CbD53842c5426634e7929541eC2318f3dCF7e`, from `0x9348b5c00255cf9a9daffe300b48582cd6e274bb` to
+`0x796faaff078c19c1aa92950ad80d1116cacabede`. The operator record reports
+OpenClaw delivery and a separate verifier pass covering agreement signatures,
+signed delivery evidence and payment binding. A replay using the retained
+payment authorization returned the same delivery bytes with no second transfer. The public transaction proves the transfer;
+delivery and replay are operator-recorded checks. The operator reports control
+of both test wallets. This sale used a different job from the earlier listing
+and offer above. The seller endpoint was loopback-only; no public seller endpoint
+or complete anchored DACS commerce session is claimed.
+
 ## Shared branch attribution
 
 The current public commit list for [SDK PR #332](https://github.com/DACS-Agent-commerce/dacs-sdk/pull/332) contains 5 commits, of which 0 are linked by GitHub to cX3po.

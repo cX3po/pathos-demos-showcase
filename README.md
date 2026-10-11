@@ -105,6 +105,24 @@ of both test wallets. This sale used a different job from the earlier listing
 and offer above. The seller endpoint was loopback-only; no public seller endpoint
 or complete anchored DACS commerce session is claimed.
 
+### Two sales under one standing grant — 2026-10-10
+
+The PATH-OS operator audit records two further OpenClaw sales under **one
+human-signed, seven-day receive-only standing grant**, capped at **10 sales /
+0.10 test USDC**, with no additional human signature between them. On Base
+Sepolia testnet, each transaction transferred **10000 atomic units (0.01 test
+USDC, 6 decimals)** from the same test buyer to the VM payee:
+
+- [Sale 1](https://sepolia.basescan.org/tx/0x5c06ae14f06e147c469c79951e213c32cb1549bf2baab8ba73af75d978f6ee42), block **47954737**.
+- [Sale 2](https://sepolia.basescan.org/tx/0x20e4e5cd34b988c993295b59164140c5ab936e5fb9fd8a76af3ae00e8555c588), block **47954770**.
+
+The operator audit records two successful settlements, two retained deliveries,
+and sealed quota reservations of **2 sales / 20000 atomic units (0.02 test
+USDC)**. Public transactions evidence the transfers; grant, delivery and quota
+checks are operator-recorded. Both wallets are ours, including the same buyer
+wallet used in the earlier sale. The seller endpoint remains loopback-only;
+no independent buyer, public seller endpoint or anchored DACS session is claimed.
+
 ## Shared branch attribution
 
 The current public commit list for [SDK PR #332](https://github.com/DACS-Agent-commerce/dacs-sdk/pull/332) contains 5 commits, of which 0 are linked by GitHub to cX3po.
